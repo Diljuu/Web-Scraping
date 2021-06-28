@@ -1,4 +1,4 @@
-# Web-Scraping
+# Web Scraping-Makaan.com
 ## Objective :
 Makaan is an online real estate platform that allows individuals to sell and rent residential properties in India. This script scrapes data from makaan.com and contains the data of first 50 pages information available in Hyderabad.
 
